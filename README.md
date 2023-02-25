@@ -12,6 +12,17 @@ Nous traversons de page wikipedia en page wikipedia
 à la recherche des dates de monstration des artistes
 en Arts visuels qui ont pratiqués avant 1981.
 ___________________________________________________
+Biais
+___________________________________________________
+
+Femmes artistes
+Histoire de l'art > Eurocentré :(
+max. 1981
+Date de monstration
+Pratiques Visuelles
+Wikipedia
+Beaux-arts :(
+___________________________________________________
 
 Dernière modification le 25/02/2023 à 14h00.
 
