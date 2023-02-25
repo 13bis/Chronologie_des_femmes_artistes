@@ -39,3 +39,6 @@ Mastodon : https://mastodon.social/@13bis
 
 Les archives : 
 Youtube : https://www.youtube.com/channel/UCHT3gQQOQgO-WBFkq86SPkw
+
+Les dons : 
+Utip : https://utip.io/13bis
