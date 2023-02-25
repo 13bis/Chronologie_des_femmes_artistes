@@ -14,7 +14,6 @@ en Arts visuels qui ont pratiqués avant 1981.
 ___________________________________________________
 Biais
 ___________________________________________________
-
 Femmes artistes
 Histoire de l'art > Eurocentré :(
 max. 1981
