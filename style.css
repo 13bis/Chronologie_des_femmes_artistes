@@ -1,0 +1,162 @@
+/*--------------------------------
+Chronologie des femmes artistes par 13bis et Nibler_s, 2022.
+Live on twitch.tv/13bis
+Updates on twitter : https://https://twitter.com/13bis2
+Archives on Youtube : 13bis
+---------------------------------*/
+
+/*----Mise en page - général----*/
+html,body{
+	background-color: black;
+	margin: 0 auto;
+}
+
+/*----Mise en page - précise----*/
+html{
+
+/*Taille*/
+	height: 100%;
+
+/*Typographie*/
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+
+/*Marge*/
+	margin-left: 1rem;
+	margin-right: 1rem;
+}
+
+	span a{
+			text-decoration: none;
+			color: inherit;
+		}
+
+
+body{
+	height: 100%;
+	width:100%;
+	display: flex;
+	flex-flow: column;
+
+	/*Accessibilté*/
+	line-height: 1.5;
+	text-align: justify;
+
+	/*Barre de défilement */
+	overflow-y: hidden;
+	overflow-x: scroll;
+	scrollbar-color: #dbc721 black;
+	scrollbar-size: thin;
+	scrollbar-track: border: 1px solid #dbc721;
+}
+
+
+/*----Titre----*/
+header{
+	margin-top: 1rem;
+}
+
+h1{
+	color: black;
+	margin: 0;
+	padding-left: 0.1em;
+	background: #dbc721;
+	padding-right: 0.1em;
+	width: fit-content;
+}
+
+h3{
+	color: white;
+	margin: 0;
+}
+
+/*----Main----*/
+main{
+	margin-top: auto;
+	margin-bottom: auto;
+	width: max-content;
+	overflow-inline: visible;
+	align-items: center;
+	justify-content:center;
+}
+
+p{margin:0;padding: 0;}
+
+/* Barre de défilement Chrome*/
+/* Taille */
+::-webkit-scrollbar {
+  width: 15px;
+
+}
+/* Barre */
+::-webkit-scrollbar-track {
+	border: 1px solid #dbc721;
+}
+/* Poignée */
+::-webkit-scrollbar-thumb {
+  background: #dbc721;
+}
+/* Poigneé en utilisation */
+::-webkit-scrollbar-thumb:hover {
+  background: #db2192;
+}
+
+/*----Visuel de la chronologie----*/
+.Chronologie{
+display: flex;
+flex-flow: row nowrap;
+width: inherit;
+height: inherit;
+	}
+
+.ligne{
+  height: 2px;
+  background: white;
+	width:100%;
+}
+
+.verticale{	border-left: 2px solid #fff;
+	height: 13px;
+}
+
+/*----Artistes----*/
+.artistes{
+color:white;
+padding: 0 13px;
+max-width: 65ch; /* Accessibilté*/
+}
+
+.artistes a{
+	text-decoration: none;
+	color: inherit;
+}
+
+/*----Date----*/
+.date{
+	background: #dbc721;
+	color:black;
+padding-left: 5px; padding-right: 5px;
+	height: fit-content;
+}
+/*----Nom----*/
+.nom{
+	width: max-content;
+}
+
+/*----Pied de page----*/
+
+footer{
+text-align: right;
+font-size: 0.75em;
+}
+footer p{
+	margin: 1rem 0 0 0 ;
+	color:White;
+}
+
+span#twitch{
+	color:#9146FF;
+}
+span#utip{
+	color:#dbc721;
+}
