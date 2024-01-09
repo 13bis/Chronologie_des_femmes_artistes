@@ -2,7 +2,7 @@ ___________________________________________________
 
 Chronologie des femmes artistes
 par Nibler_s et 13bis
-crée en live sur twitch.tv/13bis
+crée en live et collaboration sur twitch.tv/13bis
 ___________________________________________________
 
 Une chronologie des femmes artistes crée en live 
@@ -16,7 +16,7 @@ Biais
 ___________________________________________________
 Femmes artistes
 Histoire de l'art > Eurocentré :(
-max. 1981
+maximum 1981
 Date de monstration
 Pratiques Visuelles
 Wikipedia
@@ -41,4 +41,4 @@ Les archives :
 Youtube : https://www.youtube.com/channel/UCHT3gQQOQgO-WBFkq86SPkw
 
 Les dons : 
-Utip : https://utip.io/13bis
+OUPS
