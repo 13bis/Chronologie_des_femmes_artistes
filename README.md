@@ -41,4 +41,4 @@ Les archives :
 Youtube : https://www.youtube.com/channel/UCHT3gQQOQgO-WBFkq86SPkw
 
 Les dons : 
-OUPS
+https://fr.liberapay.com/13bis/
